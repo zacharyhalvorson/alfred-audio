@@ -6,3 +6,5 @@ This is an [Alfred](http://www.alfredapp.com) workflow for beginning a new audio
 
 - Download and install the '.alfredworkflow' file contained in this repo.
 - Use the keyword 'audio' to begin a recording.
+
+![Alfred Screenshot](https://cloudup.com/chZmieX1ZBC+)
